@@ -1,0 +1,5 @@
+C:\temp-Kinect\KinectPong2\PongImproved\PongImprovedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp-Kinect\KinectPong3-Beta\PongImproved\PongImprovedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp-Kinect\KinectPong4-Beta\PongImproved\PongImprovedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp-Kinect\KinectPong5-Beta\PongImproved\PongImprovedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp-Kinect\KinectPong6-Beta\PongImproved\PongImprovedContent\obj\x86\Debug\ResolveAssemblyReference.cache

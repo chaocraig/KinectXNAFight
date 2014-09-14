@@ -1,0 +1,2 @@
+c:\users\fmccown\documents\visual studio 2010\Projects\PongImproved\PongImproved\PongImprovedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp-Kinect\XNA\Pong\PongImproved\PongImproved\PongImprovedContent\obj\x86\Debug\ResolveAssemblyReference.cache

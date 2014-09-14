@@ -1,0 +1,20 @@
+c:\users\fmccown\documents\visual studio 2010\Projects\PongImproved\PongImproved\PongImproved\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fmccown\documents\visual studio 2010\Projects\PongImproved\PongImproved\PongImproved\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\fmccown\documents\visual studio 2010\Projects\PongImproved\PongImproved\PongImproved\bin\x86\Debug\Content\Images\basketball.xnb
+c:\users\fmccown\documents\visual studio 2010\Projects\PongImproved\PongImproved\PongImproved\bin\x86\Debug\Content\Images\hand.xnb
+c:\users\fmccown\documents\visual studio 2010\Projects\PongImproved\PongImproved\PongImproved\bin\x86\Debug\Content\Audio\crash.xnb
+c:\users\fmccown\documents\visual studio 2010\Projects\PongImproved\PongImproved\PongImproved\bin\x86\Debug\Content\Audio\swish.xnb
+c:\users\fmccown\documents\visual studio 2010\Projects\PongImproved\PongImproved\PongImproved\bin\x86\Debug\PongImproved.exe
+c:\users\fmccown\documents\visual studio 2010\Projects\PongImproved\PongImproved\PongImproved\bin\x86\Debug\PongImproved.pdb
+c:\users\fmccown\documents\visual studio 2010\Projects\PongImproved\PongImproved\PongImproved\obj\x86\Debug\PongImproved.exe
+c:\users\fmccown\documents\visual studio 2010\Projects\PongImproved\PongImproved\PongImproved\obj\x86\Debug\PongImproved.pdb
+C:\temp-Kinect\XNA\Pong\PongImproved\PongImproved\PongImproved\bin\x86\Debug\Content\Images\basketball.xnb
+C:\temp-Kinect\XNA\Pong\PongImproved\PongImproved\PongImproved\bin\x86\Debug\Content\Images\hand.xnb
+C:\temp-Kinect\XNA\Pong\PongImproved\PongImproved\PongImproved\bin\x86\Debug\Content\Audio\crash.xnb
+C:\temp-Kinect\XNA\Pong\PongImproved\PongImproved\PongImproved\bin\x86\Debug\Content\Audio\swish.xnb
+C:\temp-Kinect\XNA\Pong\PongImproved\PongImproved\PongImproved\bin\x86\Debug\PongImproved.exe
+C:\temp-Kinect\XNA\Pong\PongImproved\PongImproved\PongImproved\bin\x86\Debug\PongImproved.pdb
+C:\temp-Kinect\XNA\Pong\PongImproved\PongImproved\PongImproved\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp-Kinect\XNA\Pong\PongImproved\PongImproved\PongImproved\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\temp-Kinect\XNA\Pong\PongImproved\PongImproved\PongImproved\obj\x86\Debug\PongImproved.exe
+C:\temp-Kinect\XNA\Pong\PongImproved\PongImproved\PongImproved\obj\x86\Debug\PongImproved.pdb
